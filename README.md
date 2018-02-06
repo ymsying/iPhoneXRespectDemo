@@ -1,7 +1,8 @@
 # iPhoneXRespectDemo
 
-```        
-        /*
+**iPhone的状态栏、导航栏、底部标签栏的高度**
+
+        /*
             0. 通过keyWindow获取SafeArea
          
             1. 在iOS11中有SafeArea的概念，
