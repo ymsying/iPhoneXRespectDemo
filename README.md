@@ -1,9 +1,6 @@
 # iPhoneXRespectDemo
 
 **iPhone的状态栏、导航栏、底部标签栏的高度**
-
-
-   
         /*
             0. 通过keyWindow获取SafeArea
          
